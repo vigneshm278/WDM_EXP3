@@ -97,6 +97,8 @@ plt.show()
 
 ```
 ### Output:
+<img width="450" height="678" alt="image" src="https://github.com/user-attachments/assets/830f54e3-380d-4bd1-8301-e1c14e437616" />
+
 
 ### Visualization:
 ```python
@@ -124,8 +126,11 @@ visualize_patterns_line(top_wear_result, 'Top Wear')
 visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
-### Output:
-<img width="450" height="678" alt="image" src="https://github.com/user-attachments/assets/830f54e3-380d-4bd1-8301-e1c14e437616" />
+### Outout:
+<img width="988" height="556" alt="image" src="https://github.com/user-attachments/assets/6ff67031-967f-4988-a1c8-d772137a59b8" />
+<img width="989" height="648" alt="image" src="https://github.com/user-attachments/assets/1e4b2a5b-b272-4364-bbfd-926ee6897a38" />
+<img width="985" height="608" alt="image" src="https://github.com/user-attachments/assets/dce1b7db-55a9-453c-9323-89d446060ffd" />
+
 
 
 ### Result:
